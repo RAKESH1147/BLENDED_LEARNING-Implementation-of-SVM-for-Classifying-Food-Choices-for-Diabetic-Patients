@@ -30,6 +30,7 @@ Program to implement SVM for food classification for diabetic patients.
 Developed by: RAKESH K S
 RegisterNumber: 212224040264
 */
+
 import pandas as pd
 from sklearn.model_selection import train_test_split, GridSearchCV
 from sklearn.preprocessing import StandardScaler
